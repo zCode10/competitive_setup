@@ -1,0 +1,79 @@
+<snippet>
+    <content><![CDATA[
+// Author : sarveshSP
+
+
+#include <bits/stdc++.h>
+using namespace std;
+
+typedef unsigned long long ull;
+typedef long long ll;
+typedef long double ld;
+
+const ll mod  = 1e9+7;
+const ld eps  = 1e-9 ;
+const ll maxn = 1e5+1;
+const ll inf  = 1e15 ;
+const ll minf = -inf ;
+
+#define mp make_pair
+#define pb push_back
+#define endl "\n"
+
+
+void aPrint(int *arr, int n ) {
+    
+    for(int i = 0; i < n; i++) {
+        cout << arr[i] << " ";
+    }
+}
+
+void aScan(int *arr, int n) {
+    for(int i = 0; i < n; i++) {
+        cin >> arr[i];
+    }
+}
+
+void vPrint(vector<int>& v) {
+    for (int x : v)
+        cout << x << " ";
+    cout << "\n";
+}
+
+
+
+void solve()
+{
+    ll n = 1;
+    cin >> n;
+}
+
+
+
+int main()
+{
+    ios_base :: sync_with_stdio(false);
+    cin.tie(0);
+    cout.tie(0);
+
+    #ifdef ZSP
+    freopen("inputf.in","r",stdin);
+    freopen("outputf.in","w",stdout);
+    #endif
+
+    ll t=1;
+    cin >> t;
+    $0
+
+    while(t--)
+    {
+        solve();
+    } 
+
+    return 0;
+} 
+]]></content><!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zsp</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>
