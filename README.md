@@ -3,10 +3,11 @@
 -   Snippet
 
     -   Save it with <any_name>.sublime-snippet
-
+    -   Create an inputf.in and outputf.in file in a directory where you want to run the c++ file.
 -   Build
 
-    -   Save it as cp17.sublime-build
+    -   Go to Tools > Build System > New Build System
+    -   paste the contents of cp17.sublime-build
 
 -   Formatter
     -   Use AStyleFormatter
