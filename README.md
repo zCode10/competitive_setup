@@ -10,3 +10,14 @@
 
 -   Formatter
     -   Use AStyleFormatter
+
+-   Preferences
+    ```{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_face": "Operator Mono Lig",
+	"font_size": 11,
+	"color_scheme": "Packages/Rainglow/rainglow/Volatile Contrast (rainglow).tmTheme",
+    }
