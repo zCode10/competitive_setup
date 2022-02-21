@@ -24,3 +24,5 @@
 		"font_size": 11,
 		"color_scheme": "Packages/Rainglow/rainglow/Volatile Contrast (rainglow).tmTheme",
 	    }
+-   Download
+	- https://www.sublimetext.com/download
