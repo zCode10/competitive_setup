@@ -2,6 +2,7 @@
 
 -   Snippet
 
+    -	Go to Tools > Developer > New Snippet
     -   Save it with <any_name>.sublime-snippet
     -   Create an inputf.in and outputf.in file in a directory where you want to run the c++ file.
 -   Build
